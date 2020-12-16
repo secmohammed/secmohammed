@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/secmohammed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=secmohammed&count_private=true" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=secmohammed&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&langs_count=7" /> 
 </a>
 <a href="https://github.com/secmohammed">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secmohammed" />
