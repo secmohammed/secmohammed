@@ -1,11 +1,40 @@
 ### Hi there 👋
 
+### Feel free to reach out!
+
+<br>
+
+<p align ="center">
+  <a href ="https://www.facebook.com/Flare.SecTheater/">
+  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
+  <a href ="https://twitter.com/secmuhammed">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href ="https://www.linkedin.com/in/secmohammed">
+  <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+  </a>
+  <a href ="https://medium.com/@secmuhammed">
+  <img src="https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=Medium&logoColor=white"/>
+  </a>
+  <a href ="https://dev.to/secmohammed">
+  <img src="https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+<br>
+<br>
+
 <a href="https://github.com/secmohammed">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=secmohammed&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&langs_count=7" /> 
 </a>
 <a href="https://github.com/secmohammed">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secmohammed" />
 </a>
+
+
+[![mohammed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=secmohammed)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Preferred Languages.
 <div>
