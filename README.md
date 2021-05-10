@@ -34,7 +34,7 @@
 </a>
 
 
-[![mohammed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=secmohammed)](https://github.com/anuraghazra/github-readme-stats)
+[![mohammed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=secmohammed&v=2&langs_count=4&custom_title=Mohammed%27s%20week%20stats)](https://github.com/secmohammed)
 
 ## Preferred Languages.
 <div>
