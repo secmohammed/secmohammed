@@ -28,6 +28,9 @@
 <br>
 <br>
 
+
+
+
 <a href="https://github.com/secmohammed">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=secmohammed&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&langs_count=7" /> 
 </a>
@@ -41,6 +44,15 @@
 
 
 [![mohammed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=secmohammed&v=2&langs_count=4&custom_title=Mohammed%27s%20week%20stats)](https://github.com/secmohammed)
+
+
+
+
+
+
+
+![Profile views](https://gpvc.arturio.dev/secmohammed)
+
 
 
 
@@ -95,3 +107,4 @@
 <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 </div>
+
