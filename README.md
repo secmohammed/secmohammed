@@ -46,8 +46,10 @@
 <!-- [![mohammed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=secmohammed&v=2&langs_count=4&custom_title=Mohammed%27s%20week%20stats)](https://github.com/secmohammed) -->
 
 
+<img class="all-time-badge tip" title="" src="https://wakatime.com/badge/user/e9c66550-e3c4-4363-84de-c3d2e80eb2c6.svg" data-original-title="Total time coded since May 3 2021">
 
-
+<br />
+<br />
 
 
 
